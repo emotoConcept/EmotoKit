@@ -16,7 +16,7 @@ feedparser==5.2.1
 gitsome==0.7.2
 idna==2.8
 imagesize==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 numpydoc==0.8.0
 packaging==19.0
