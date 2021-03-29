@@ -23,7 +23,7 @@ packaging==19.0
 ply==3.11
 prompt-toolkit==1.0.15
 pycparser==2.19
-Pygments==2.3.1
+Pygments==2.7.4
 pyOpenSSL==19.0.0
 pyparsing==2.3.1
 pytz==2016.10
